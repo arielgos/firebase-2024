@@ -8,8 +8,6 @@ Create Firebase project [Firebase Console](https://console.firebase.google.com)
 
 Add a Web Application and Enable Firebase Hosting
 
-## Firebase Init
-
 ```bash
 npm install -g firebase
 ```
@@ -28,7 +26,7 @@ firebase init
 npx create-react-app public --template typescript
 ```
 
-### Install dependencies
+# Install dependencies
 
 ```bash
 cd public
@@ -48,3 +46,7 @@ npm install --save react-dotenv
 cd public
 npm run start
 ```
+
+# Adding Firebase Configuration
+
+Download / Copy project settings from [Firebase Console](https://console.firebase.google.com)
