@@ -2,6 +2,10 @@
 
 React + Firebase in 2024
 
+Create a Google Account [Google](https://support.google.com/accounts/answer/27441?hl=en)
+Create a Firebase Account [Firebase Console](https://console.firebase.google.com)
+Create a GitHub Account [GitHub](http://github.com)
+
 # Firebase Setup
 
 Create Firebase project [Firebase Console](https://console.firebase.google.com)
