@@ -10,8 +10,6 @@ Add a Web Application and Enable Firebase Hosting
 
 ## Firebase Init
 
-Execute:
-
 ```bash
 npm install -g firebase
 ```
@@ -22,4 +20,31 @@ firebase login
 
 ```bash
 firebase init
+```
+
+# Creare react APP
+
+```bash
+npx create-react-app public --template typescript
+```
+
+### Install dependencies
+
+```bash
+cd public
+```
+
+```bash
+npm install --save bootstrap
+npm install --save firebase
+npm install --save react-bootstrap
+npm install --save react-router-dom
+npm install --save react-dotenv
+```
+
+# First Run
+
+```bash
+cd public
+npm run start
 ```

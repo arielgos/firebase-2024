@@ -1,0 +1,9 @@
+{
+    "endOfLine": "auto",
+    "printWidth": 120,
+    "bracketSameLine": false,
+    "singleQuote": true,
+    "trailingComma": "none",
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true
+}
