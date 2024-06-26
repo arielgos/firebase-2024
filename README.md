@@ -27,7 +27,7 @@ firebase init
 # Creare react APP
 
 ```bash
-npx create-react-app public --template typescript
+npx create-react-app public
 ```
 
 # Install dependencies
@@ -37,9 +37,8 @@ cd public
 ```
 
 ```bash
-npm install --save bootstrap
+npm install --save react-bootstrap bootstrap
 npm install --save firebase
-npm install --save react-bootstrap
 npm install --save react-router-dom
 npm install --save react-dotenv
 ```
