@@ -56,3 +56,4 @@ Download / Copy project settings from [Firebase Console](https://console.firebas
 
 # Adding Gemini Key
 
+Go to Google AI Studio [Google AI Studio](https://aistudio.google.com)
