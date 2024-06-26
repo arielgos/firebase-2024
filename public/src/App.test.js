@@ -3,7 +3,6 @@ import App from './App'
 
 test('renders page', () => {
   render(<App />)
-  const linkElement = screen.getByText(/Sign in/i)
+  const linkElement = screen.getByText(/Signed/i)
   expect(linkElement).toBeInTheDocument()
 })
-

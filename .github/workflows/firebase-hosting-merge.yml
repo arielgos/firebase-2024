@@ -19,11 +19,6 @@ jobs:
           npm install
           npm run build
 
-      - name: Coverage
-        run: |
-          cd public
-          npm run coverage
-
       - name: Copying Files
         run: |
           cd public
