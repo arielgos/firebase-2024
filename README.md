@@ -53,3 +53,6 @@ npm run start
 # Adding Firebase Configuration
 
 Download / Copy project settings from [Firebase Console](https://console.firebase.google.com)
+
+# Adding Gemini Key
+
