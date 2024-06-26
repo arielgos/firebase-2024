@@ -22,7 +22,6 @@ jobs:
       - name: Testing & Coverage
         run: |
           cd public
-          npm test
           npm run coverage
 
       - name: Copying Files

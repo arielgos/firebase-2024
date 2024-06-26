@@ -29,15 +29,15 @@
     "fix": "standard --fix src/*.js src/pages/*.js src/components/*.js",
     "coverage": "npm test -- --coverage"
   },
+  "react-dotenv": {
+    "whitelist": [
+      "GEMINI_API_KEY"
+    ]
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
-    ]
-  },
-  "react-dotenv": {
-    "whitelist": [
-      "GEMINI_API_KEY"
     ]
   },
   "browserslist": {
