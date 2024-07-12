@@ -4,7 +4,7 @@ Demo [Chuck Norris Joke Generator](https://fir-2024-c22e8.web.app)
 
 Presentación [PDF](https://github.com/arielgos/firebase-2024/blob/main/Presentation.pdf)
 
-# Requirements
+### Requirements
 
 Create a Google Account [Google](https://support.google.com/accounts/answer/27441?hl=en)
 
@@ -12,7 +12,7 @@ Create a Firebase Account [Firebase Console](https://console.firebase.google.com
 
 Create a GitHub Account [GitHub](http://github.com)
 
-# Firebase Setup
+## Firebase Setup
 
 Create Firebase project [Firebase Console](https://console.firebase.google.com)
 
@@ -30,13 +30,13 @@ firebase login
 firebase init
 ```
 
-# Creare react APP
+## Creare react APP
 
 ```bash
 npx create-react-app public
 ```
 
-# Install dependencies
+## Install dependencies
 
 ```bash
 cd public
@@ -49,17 +49,17 @@ npm install --save react-router-dom
 npm install --save react-dotenv
 ```
 
-# First Run
+## First Run
 
 ```bash
 cd public
 npm run start
 ```
 
-# Adding Firebase Configuration
+## Adding Firebase Configuration
 
 Download / Copy project settings from [Firebase Console](https://console.firebase.google.com)
 
-# Adding Gemini Key
+## Adding Gemini Key
 
 Go to Google AI Studio [Google AI Studio](https://aistudio.google.com)
