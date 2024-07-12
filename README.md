@@ -2,7 +2,9 @@
 
 Demo [Chuck Norris Joke Generator](https://fir-2024-c22e8.web.app)
 
-Presentación [PDF]()
+Presentación [PDF](https://github.com/arielgos/firebase-2024/blob/main/Presentation.pdf)
+
+# Requirements
 
 Create a Google Account [Google](https://support.google.com/accounts/answer/27441?hl=en)
 
