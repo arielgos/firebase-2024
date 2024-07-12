@@ -40,7 +40,7 @@ const Home = () => {
     <>
       <Navbar expand='lg' className='bg-body-tertiary'>
         <Container>
-          <Navbar.Brand href='#home'>React + Firebase</Navbar.Brand>
+          <Navbar.Brand href='#home'>Firebase Boost 2024</Navbar.Brand>
           <Navbar.Toggle />
           <Navbar.Collapse className='justify-content-end'>
             <Navbar.Text>

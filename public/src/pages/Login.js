@@ -44,7 +44,7 @@ const Login = () => {
     <Container>
       <Row className='pt-5 justify-content-md-center'>
         <Col md={6}>
-          <h1>React + Firebase</h1>
+          <h1>Firebase Boost 2024</h1>
           <h2>Sign in</h2>
           <Form className='pt-3' noValidate validated={validated} onSubmit={onLogin}>
             <Alert variant='danger' onClose={() => setShowAlert(false)} dismissible show={showAlert}>
