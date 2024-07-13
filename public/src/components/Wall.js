@@ -111,8 +111,7 @@ const Wall = (props) => {
           <Form.Group className='mb-3' controlId='text'>
             <FloatingLabel
               controlId='text'
-              label='Enter a new joke (Double click to let Gemini do some magic
-                            )'
+              label='Enter text or double click and let Gemini do some magic'
             >
               <Form.Control type='text' placeholder='' autoComplete='off' value={joke} required onChange={(e) => setJoke(e.target.value)} onDoubleClick={generateJoke} />
             </FloatingLabel>
