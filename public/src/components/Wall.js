@@ -11,7 +11,6 @@ import * as constants from '../Constants'
 import Item from './Item'
 import Col from 'react-bootstrap/Col'
 import Row from 'react-bootstrap/Row'
-import env from 'react-dotenv'
 import { GoogleGenerativeAI } from '@google/generative-ai'
 
 const Wall = (props) => {
@@ -25,8 +24,7 @@ const Wall = (props) => {
 
   const generateJoke = async () => {
     try {
-      console.log(env.GEMINI_API_KEY)
-      const apiKey = 'AIzaSyDJLhBpfaTcGG4JbDORAslSMqCG8so_GKg'// env.GEMINI_API_KEY
+      const apiKey = ''// env.GEMINI_API_KEY
       const genAI = new GoogleGenerativeAI(apiKey)
 
       const model = genAI.getGenerativeModel({
